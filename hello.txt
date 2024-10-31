@@ -1,4 +1,2 @@
 Hello, World! 
 Изменение из branch-1
-Изменение из branch-2
-
